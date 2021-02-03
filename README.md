@@ -1,1 +1,1 @@
-# BhoSDK
+# BhoSDK - Binary Heuristic Optimizer SDK
